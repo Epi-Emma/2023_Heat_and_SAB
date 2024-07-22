@@ -1,5 +1,6 @@
 # 2024_Heat_and_SAB
-Code used for the analysis of heat exposure and spontaneous abortion (SAB) in the Pregnancy Study Online (PRESTO) cohort.
+This repository contains code used in an analysis of heat exposure and spontaneous abortion (SAB) risk in the Pregnancy Study Online (PRESTO) cohort.
+
 
 **Data Availability:**
 
