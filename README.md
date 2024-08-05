@@ -10,6 +10,6 @@ ___
 
 If you use this R code, please cite the following publication:
 
-xxxxxxx
+Wesselink, AK.; Gause, EL; Spangler, KD; Hystad, P; Kirwa, K; Willis, MD; Wellenius, GA; Wise, LA. Exposure to Ambient Heat and Risk of Spontaneoud Abortion: A Case-Crossover Study. Epidemiology ():10.1097/EDE.0000000000001774, July 26, 2024. DOI: 10.1097/EDE.0000000000001774.
 
 
